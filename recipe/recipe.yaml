@@ -1,5 +1,5 @@
 context:
-  version: 7.2.0
+  version: "7.2.1"
 
 package:
   name: ionic-cli
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/@ionic/cli/-/cli-${{ version }}.tgz
-  sha256: a1089c84f0e06527c6ffcb7868d05d2606240894094eba25c109d7fafe2c0da0
+  sha256: 97c5e388766f56e16e47b5eaa3ab233d1ff4cc8add5f0cd906b27e3ea6e29585
 
 build:
   number: 0
